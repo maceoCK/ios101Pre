@@ -22,26 +22,26 @@ The following **required** functionality is completed:
 My favorite iphone applications and my favorite features from them:
 
 - Anki (Flash card app)
- - Spaced repetition of flash cards
- - Pretty statistics
- - Ability to upload progress to desktop app
+   - Spaced repetition of flash cards
+   - Pretty statistics
+   - Ability to upload progress to desktop app
 - Transit (Public transportation tracker)
- - Easily viewable times of arrival
- - Easily viewable routes of the types of transit
- - Easily plannable routes with nice timeline to show how long each leg of the route is
+   - Easily viewable times of arrival
+   - Easily viewable routes of the types of transit
+   - Easily plannable routes with nice timeline to show how long each leg of the route is
 - Weather (default apple app)
- - Widgets on homescreen allow for quick reference of temperature
- - Auto updates location to show where I am
- - Graph to show temperature throughout the day is intuitive
+   - Widgets on homescreen allow for quick reference of temperature
+   - Auto updates location to show where I am
+   - Graph to show temperature throughout the day is intuitive
 
 App I would like to develop:
 
 - Location based photography app
- - Shows locations and has chat boards for the locations
- - Allows users to upload photos and share their editing presets on forums of the locations
- - Allows for users to vote for their favorites of each location
- - Has Weekly competition, Monthly, and Yearly for each location
- - Allows for more broadness or more specificity depending on location
+   - Shows locations and has chat boards for the locations
+   - Allows users to upload photos and share their editing presets on forums of the locations
+   - Allows for users to vote for their favorites of each location
+   - Has Weekly competition, Monthly, and Yearly for each location
+   - Allows for more broadness or more specificity depending on location
 
 ## Notes
 
