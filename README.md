@@ -15,17 +15,41 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-<img src = "https://imgur.com/qUpP0pA.gif" alt = "video of App">
+<img src="https://imgur.com/qUpP0pA.gif" alt="video of App">
 
 ## App Brainstorming (Step 4)
 
+My favorite iphone applications and my favorite features from them:
+
+- Anki (Flash card app)
+ - Spaced repetition of flash cards
+ - Pretty statistics
+ - Ability to upload progress to desktop app
+- Transit (Public transportation tracker)
+ - Easily viewable times of arrival
+ - Easily viewable routes of the types of transit
+ - Easily plannable routes with nice timeline to show how long each leg of the route is
+- Weather (default apple app)
+ - Widgets on homescreen allow for quick reference of temperature
+ - Auto updates location to show where I am
+ - Graph to show temperature throughout the day is intuitive
+
+App I would like to develop:
+
+- Location based photography app
+ - Shows locations and has chat boards for the locations
+ - Allows users to upload photos and share their editing presets on forums of the locations
+ - Allows for users to vote for their favorites of each location
+ - Has Weekly competition, Monthly, and Yearly for each location
+ - Allows for more broadness or more specificity depending on location
+
 ## Notes
 
-Describe any challenges encountered while building the app.
+I experienced no challenges during this procedure
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2023 Maceo Cardinale Kwik
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
